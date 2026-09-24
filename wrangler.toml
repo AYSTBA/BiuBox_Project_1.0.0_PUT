@@ -1,0 +1,17 @@
+# BiuBox Cloudflare Pages 部署配置
+# 部署命令：npm run deploy
+# 项目名：biubox
+name = "biubox"
+compatibility_date = "2026-08-20"
+pages_build_output_dir = "dist"
+
+# D1 数据库绑定
+[[d1_databases]]
+binding = "DB"
+database_name = "biubox-db"
+database_id = "5df22906-b187-4a7f-9811-e8b37caa41e5"
+
+# KV 图片存储绑定（替代 R2，无需支付方式）
+[[kv_namespaces]]
+binding = "IMAGES"
+id = "ed2175318ab6455a8d1ee434d45da29b"
