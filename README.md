@@ -1,29 +1,29 @@
 <!-- ═══════════════════════════════════════════════════════════════════
      BiuBox · Campus Forum — README
-     Bilingual (中文 / English) · Interactive · Single file
+     Bilingual (中文 / English) · Interactive · Light / White theme
      ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:6C5CE7&height=2&width=100%" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ECEAFB,100:6C5CE7&height=3&width=100%" width="100%" alt="" />
 
 <br/>
 
 # BiuBox
 
-**校园论坛 · 设计参考　|　Campus Forum · Design Reference**
+**校园论坛 · 设计参考 | Campus Forum · Design Reference**
 
-<sub>让校园交流，回到纯粹的样子　·　Bring campus conversation back to its purest form</sub>
-
-<br/>
-
-[**中文**](#中文)　·　[**English**](#english)
+<sub>让校园交流，回到纯粹的样子 · Bring campus conversation back to its purest form</sub>
 
 <br/>
 
-`1.0.0 Beta` 已部署　·　`1.0.0` 设计预览（未完成）　|　`1.0.0 Beta` live　·　`1.0.0` preview (WIP)
+[**中文**](#中文) · [**English**](#english)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,100:1a1a2e&height=2&width=100%" width="100%" alt="" />
+<br/>
+
+`1.0.0 Beta` 已部署 · `1.0.0` 设计预览（未完成） | `1.0.0 Beta` live · `1.0.0` preview (WIP)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,100:ECEAFB&height=3&width=100%" width="100%" alt="" />
 
 </div>
 
@@ -54,7 +54,7 @@
 | 评论区 | → | **讨论区** |
 | 信息流 | → | **短信式排布** |
 
-<sub>帖子 → 话题　·　讨论区 = 像发短信一样聊天</sub>
+<sub>帖子 → 话题 · 讨论区 = 像发短信一样聊天</sub>
 
 </div>
 
@@ -105,7 +105,7 @@
 
 <!-- ─────────────────────────────── English ─────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,100:1a1a2e&height=2&width=100%" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,100:ECEAFB&height=3&width=100%" width="100%" alt="" />
 
 <h2 id="english">🇬🇧 English</h2>
 
@@ -130,7 +130,7 @@ In BiuBox, **a post is not called a post — it is called a "Topic."**
 | Comment list | → | **Discussion area** |
 | Feed | → | **SMS-style layout** |
 
-<sub>Post → Topic　·　Discussion = chat as easily as texting</sub>
+<sub>Post → Topic · Discussion = chat as easily as texting</sub>
 
 </div>
 
@@ -179,16 +179,16 @@ In BiuBox, **a post is not called a post — it is called a "Topic."**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:6C5CE7&height=2&width=100%" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ECEAFB,100:6C5CE7&height=3&width=100%" width="100%" alt="" />
 
 <div align="center">
 
-<sub>💜 BiuBox 1.0.0 Design Reference　·　让校园交流回到纯粹的样子</sub>
+<sub>💜 BiuBox 1.0.0 Design Reference · 让校园交流回到纯粹的样子</sub>
 
 <br/><br/>
 
 ⭐ **Like the design? Give it a star!** ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:1a1a2e&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ECEAFB,100:6C5CE7&height=120&section=footer" width="100%" alt="" />
 
 </div>
